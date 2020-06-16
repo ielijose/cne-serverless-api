@@ -1,0 +1,24 @@
+{
+  "name": "cne-serverless-api",
+  "version": "1.0.0",
+  "description": "CNE Serverless API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ielijose/cne-serverless-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ielijose/cne-serverless-api/issues"
+  },
+  "homepage": "https://github.com/ielijose/cne-serverless-api#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1"
+  }
+}
